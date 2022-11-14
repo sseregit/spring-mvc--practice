@@ -21,7 +21,7 @@
 					<td>${item.username}</td>
 					<td>${item.age}</td>
 				</tr>
-			</c:forEach>>
+			</c:forEach>
 		</tbody>
 	</table>
 </body>
